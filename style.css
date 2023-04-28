@@ -1,0 +1,33 @@
+body {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+}
+
+h1 {
+	font-size: 36px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+p {
+	max-width: 800px;
+	margin: 0 auto 50px;
+	text-align: justify;
+}
+
+.download-button {
+	display: block;
+	width: 300px;
+	padding: 15px 20px;
+	background-color: #008CBA;
+	color: #fff;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 5px;
+	margin: 0 auto;
+}
+
+.download-button:hover {
+	background-color: #005f79;
+}
